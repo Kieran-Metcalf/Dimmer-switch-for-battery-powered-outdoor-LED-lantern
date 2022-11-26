@@ -1,0 +1,14 @@
+Resistors
+R1	10*10^2		1k Ohm		tolerance 5%
+R2	10*10^1		180 Ohm
+R3	10*10^2		1k Ohm		tolerance 5%
+R4	10*10^1		100 Ohm		tolerance 8%
+
+Polyester film metal foil capacitors
+C1	2.2*10^-9	2.2nF		tolerance 5%
+C2	10*10^-9	10nF		tolerance 5%
+
+Transistors
+Q1 	S8550 C-640
+Q2 	468 6J3 ECB
+Q3 	S8550 C-640
